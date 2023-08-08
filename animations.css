@@ -24,7 +24,7 @@
 
 @keyframes slideFromBottom {
   from {
-    transform: translateY(200px);
+    transform: translateY(50px);
     opacity: 0;
   }
 
